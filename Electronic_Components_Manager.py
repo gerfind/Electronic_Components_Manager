@@ -13,8 +13,8 @@ image_file = None
 
 class ElectronicComponents(tk.Radiobutton):
     """电子元器件类"""
-    number = 50  # 继承一个类，多了个number属性
-    price = 0  # 继承，增加price属性，默认值0，需要额外一行赋值
+    number = 50  # 多了个number属性
+    price = 0  #增加price属性，默认值0，需要额外一行赋值
     name = ""
     instances = []
 
