@@ -11,8 +11,7 @@ C1AO, Chylin, IndigoLightning, MUTED, Peer
 Python
 Tkinter
 Pyinstaller
-鸣谢：
-GPL(GNU General Public License)
+
 
 2020/5/10
 
